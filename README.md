@@ -18,7 +18,7 @@ This source code for this project comes frome [Uptime-Status](https://github.com
 ## [繁體中文]
 
 一個基於UptimeRobot API的伺服器服務檢查站點  
-所有原始碼皆來源於[Uptime-Status](https://github.com/yb/uptime-status)  
+所有原始碼皆來源於 [Uptime-Status](https://github.com/yb/uptime-status)  
 ⚠️這個專案的部分原始碼**已經被修改**!  
 ⚠️如果您想要從頭開始設定，請參考上方的原始碼頁面。若您執意採用此專案，我將不會處理任何Issues。  
 
